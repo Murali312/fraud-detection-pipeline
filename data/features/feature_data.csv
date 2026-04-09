@@ -1,0 +1,6 @@
+transaction_id,user_id,amount,time,merchant,location,is_fraud,txn_count,avg_amount,time_diff,high_amount,foreign_txn
+1,101,500,2024-01-01 10:00:00,Amazon,India,0,3,500.0,0.0,0,0
+3,101,300,2024-01-01 11:00:00,Amazon,India,0,3,500.0,3600.0,0,0
+5,101,700,2024-01-01 12:00:00,Amazon,India,0,3,500.0,3600.0,0,0
+2,102,20000,2024-01-01 10:05:00,Flipkart,India,1,1,20000.0,0.0,1,0
+4,103,15000,2024-01-01 11:10:00,Unknown,USA,1,1,15000.0,0.0,1,1
